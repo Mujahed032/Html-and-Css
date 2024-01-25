@@ -1,0 +1,73 @@
+﻿@model Employee
+
+<style>
+      .container {
+         border-style:groove;
+        border-color: gold;
+         border-radius:10px;
+        padding: 20px;
+        margin-top:10px;
+        width:max-content;
+        background-color:lightgray;
+        border-left-width:5px;
+      }
+
+      .container label{
+            padding: 5px;
+          margin-top:10px;
+            display: block;
+      }
+
+      .container input{
+            width: 300px;
+            border-style: groove;
+            border-radius:5px;
+            border-color:gold;
+      }
+
+      .container button{
+         margin-top:20px;
+         background-color:cornflowerblue;
+         border-radius:5px;
+      }
+    
+ </style>
+
+</section >
+   <div class="container">
+    <h1>Employee Form</h1>
+    <form method="post" action="create">
+    <div>
+        <label asp-for="Name">Name </label>
+        <input type="text" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+     <div>
+        <label asp-for="Email">Email</label>
+        <input type="email" asp-for="Email"/>
+            <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+     <div>
+        <label asp-for="Salary">Salary</label>
+        <input type="number" asp-for="Salary" />
+         <span asp-validation-for="Salary" class="text-danger"></span>
+    </div>
+
+     <div>
+        <label asp-for="DateOfBirth">DateOfBirth</label>
+        <input type="date" asp-for="DateOfBirth" />
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+    </div>
+
+     <div>
+        <label asp-for="Department">Department</label>
+        <input  type="text" asp-for="Department" />
+        <span asp-validation-for="Department" class="text-danger"></span>
+    </div>
+
+      <button type="submit">Submit</button>
+    </form>
+    </div>
+</section>

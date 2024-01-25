@@ -1,0 +1,65 @@
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Employee Form Using HTML and CSS.staticwebassets.runtime.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Employee Form Using HTML and CSS.exe
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Employee Form Using HTML and CSS.deps.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Employee Form Using HTML and CSS.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Employee Form Using HTML and CSS.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Employee Form Using HTML and CSS.pdb
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.RazorAssemblyInfo.cache
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.RazorAssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\staticwebassets\msbuild.Employee Form Using HTML and CSS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\staticwebassets\msbuild.build.Employee Form Using HTML and CSS.props
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employee Form Using HTML and CSS.props
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employee Form Using HTML and CSS.props
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\scopedcss\bundle\Employee Form Using HTML and CSS.styles.css
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\scopedcss\projectbundle\Employee Form Using HTML and CSS.bundle.scp.css
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.csproj.CopyComplete
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\refint\Employee Form Using HTML and CSS.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.pdb
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\Employee Form Using HTML and CSS.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documents\Visual Studio 2022\Html-and-Css\Employee Form Using HTML and CSS\Employee Form Using HTML and CSS\obj\Debug\net6.0\ref\Employee Form Using HTML and CSS.dll
