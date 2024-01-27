@@ -15,6 +15,7 @@ namespace Employee_Form_Using_HTML_and_CSS.Controllers
             _context = context;
         }
 
+
         public async Task<IActionResult> Index()
         {
             try
@@ -42,6 +43,8 @@ namespace Employee_Form_Using_HTML_and_CSS.Controllers
         {
             return View();
         }
+
+
 
         [HttpPost]
         public async Task<IActionResult> Create(Employee employee)
@@ -74,7 +77,6 @@ namespace Employee_Form_Using_HTML_and_CSS.Controllers
                 ModelState.AddModelError("", "An error occurred while adding the employee.");
                 return View(employee);
             }
-           
         }
 
         public async Task<IActionResult> Edit(int id)
@@ -142,6 +144,88 @@ namespace Employee_Form_Using_HTML_and_CSS.Controllers
                     ModelState.AddModelError("", "An error occurred while updating the employee.");
                     return View(employee); 
                 }
+        }
+
+
+        public async Task<IActionResult> Details(int? id)
+        {
+            try
+            {
+                if (id == null)
+                {
+                    return NotFound();
+                }
+
+                var employee = await _context.employees.FirstOrDefaultAsync(x => x.Id == id);
+
+                if (employee == null)
+                {
+                    ModelState.AddModelError("", "Employee not found");
+                    return RedirectToAction("Index");
+                }
+
+                return View(employee);
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", "An error occurred while retrieving employee details.");
+                return RedirectToAction("Index");
+            }
+        }
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            try
+            {
+                if (id == null)
+                {
+                    return NotFound();
+                }
+
+                var employee = await _context.employees.FirstOrDefaultAsync(x => x.Id == id);
+
+                if (employee == null)
+                {
+                    ModelState.AddModelError("", "Employee not found");
+                    return RedirectToAction("Index");
+                }
+
+                return View(employee);
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", "An error occurred while retrieving employee details.");
+                return RedirectToAction("Index");
+            }
+        }
+
+
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(Employee model)
+        {
+            try
+            {
+
+              var employee = await _context.employees.FindAsync(model.Id);
+
+                if (employee != null) {
+                    _context.employees.Remove(employee);
+                    await _context.SaveChangesAsync();
+
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Employee not found.");
+                    return RedirectToAction("Index");
+                }
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", $"An error occurred while deleting the employee: {ex.Message}");
+                return RedirectToAction("Index");
+            }
         }
 
     }
